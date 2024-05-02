@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "347593107092",
+    "firebase_url": "https://songdreamer-5541a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "songdreamer-5541a",
+    "storage_bucket": "songdreamer-5541a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347593107092:android:5d02891ebd2f00c9a93681",
+        "android_client_info": {
+          "package_name": "com.example.songdreamer_project00"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL5XGhXl9qcJc_eNEdOfCAx4LY5gBK_MA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
